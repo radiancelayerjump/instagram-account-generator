@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Account+Generator-E4405F?style=for-the-badge&logo=instagram" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="64" height="64" />
+</p>
+
 **⚡ Instagram Account Generator Free** — automated bulk account creation tool for Instagram. Creates verified accounts at scale with randomised profiles. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
